@@ -1,0 +1,112 @@
+	Bruxólico (ZX Spectrum) 2023
+
+
+Depois de 8 meses de produção lhes apresento Bruxólico, um jogo de ação com plataformas para computadores de 8 Bits, com segmentos de variedade na jogabilidade, tais como a simulação de rolagem de tela manual ou forçada vertical ou horizontal, batalhas com chefes de fase, e até mesmo um segmento de shumup simples. Um trabalho que já venho concebendo a muitos anos, amadurecendo ideias e planejamento, até finalmente começar sua produção em agosto de 2022. Meu projeto de 8 Bits mais ambicioso até o momento, mais extenso se utilizando 3 lados de fita k7 parar assim ter mais fases, inimigos e chefes de fase, músicas, código, e conteúdo em geral.
+
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+	Informações Básicas
+
+O programa do jogo está dividido em 3 partes, o que já foi uma prática comum, principalmente em algumas produções espanholas do passado. Diferente daquele tempo optei por não bloquear cada parte com uma senha, ficando a critério do jogador momento de acessar cada parte ou “capítulo” do jogo.
+
+No fim, o jogo dividido em lados da fita k7 também funciona como uma "salva guarda", uma espécie de "save" pra o jogador continuar de partes chave do jogo e não ter de jogar novamente as partes anteriores. O Jogo está respectivamente dividido em:
+
+- Lado A : Programa das Fases 1 e 2, seguido por 2 faixas de audio narrativa.
+- Lado B : Programa das Fases 3 e 4, seguido por 2 faixas de audio narrativa.
+- Lado C : Programa da fase final, seguido por 2 faixas de audio narrativa.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+	Fitas de Audio
+
+O jogo foi pensado para a versão física em k7 para ZX Spectrum, com as "Audio Narrativas" gravadas nas fitas. A Versão digital acompanham estes audios em formato MP3, que devem ser executados de alguma forma em conjunto com as telas de narrativas.
+
+Se você estiver jogando em um computador moderno via emulador pode executar as MP3 no winamp ou outro player qualquer de audio. Se você estiver jogando em outros dispositivos pode utilizar do seu telefone celular, ou outro periférico, para executar os audios nas suas respectivas telas.
+
+Esta não é uma ação obrigatória, você pode apenas ignorar estes audios e passar pelas telas correspondentes. Como alternativa você também pdoe ler o livro ilustrado em conjunto com o jogo, para assim se aprofundar na história.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+	Controles e Jogabilidade
+
+O jogo aceita opções de controles kempston ou Sinclair (67890), para cima pula e botão de gatilho ataca, ou teclado com as opções de teclas QAOPM ou QAOPW respectivamente: cima ou pulo, baixo, esquerda, direita, e ataque.
+
+A pedidos também incluí uma versão com os controles deteclado em WASD e Enter, respectivamente cima ou pulo, esquerda, baixo, direita, e Ataque.
+
+Controlar o pequeno Boi-Fantasma é simples, ele se move para a esquerda ou para a direita. Com o botão de ataque ele desfere um chute que destrói os inimigos. Em algumas ocasiões é possível coletar um powerup que muda o ataque para tiros de semente de mamão por um tempo limitado. É possível pular em cima dos inimigos (exceto nos chefes de fase) sem receber dano nem desferir dano ao inimigo, apenas quicando sobre suas cabeças.
+
+Em algumas telas da última fase você pode se mover livremente pela tela em 8 direções, mas não pode pular. Voc~e pode aidna atirar projéteis com o botão de ataque nestas telas, mas não pode chutar.
+
+O jogador começa com 3 vidas (tentativas) e possui 3 corações de vitalidade, ou seja, ele pode receber dano 2 vezes antes de perder completamente uma vida. Durante as fases é possível encontrar alguns items que podem lhe auxiliar no desafio do jogo:
+
+- Sementes de mamão : permite ao jogador atirar projéteis com o ataque por um tempo limitado.
+- Coração : recupera completamente a vitalidade do jogador.
+- Boneco do Boi-Fantasma : adiciona 1 vida extra no estoque do jogador.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+	Créditos
+
+
+Gráficos, músicas, e código, por Amaweks.
+
+Jogo feito com o maravilhoso MPAGD de Jonathan Cauldwell.
+
+Beta teste: Érico "Fued" Monteiro e Pedro Paiva.
+
+Narração em audio por Márcio Fernandes.
+
+Agradecimento Especial: Jonathan Cauldwell, Filipe Veiga, Marcus Garrett, Ju, Pedro Paiva, Érico, Dante, Marcelo Barbosa, Vini, Seco, Luiz Alberto, Antônio Gabriel, Paulo R.C. Villalva, Osmarina M. Villalva, e meus parceiros do Mangangá Team Laudelino, Luiz Felipe M. Villalva.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+		Inspirações e reflexões.
+
+	Já faz algum tempo que tenho o desejo de fazer um jogo inspirado na cultura e folclores tradicionais aqui do lugar onde nasci, cresci, e tenho vivido. Em 2019 cheguei a realizar uma “demo” da primeira fase do jogo, para computadores modernos e em gráficos ao estilo 16 Bits do Mega Drive. O jogo já tinha o nome de Bruxólico, e toda a ideia geral ao redor da história do poço sem fundo estava definida na minha cabeça. Mas tive de deixar a empreitada adormecida em prol de finalizar outros projetos iniciados anteriormente. Agora, finalmente, posso apresentar o resultado final, amadurecido e lapidado, e multi-linguagem, ou multimídia se você preferir.
+
+	Esse foi, até o momento, meu projeto mais ambicioso. Não só por que foi um jogo grande para os padrões dos que realizei antes em computadores de 8-bits, mas por conta de minha busca de fazer “algo além” de um jogo. Na minha cabeça jogo e livro ilustrado, assim como outras artes relacionadas a ele, se complementam, e juntos tem um efeito diferente do que se apreciados individualmente. Foram 8 meses de trabalho intenso por 8, ou até 14 horas diárias, 5, 6, as vezes 7 dias por semana projetando, programando, fazendo gráficos, compondo músicas, escrevendo, e ilustrando, entre outras produções e pós-produções que o trabalho autoral e independente exigem.
+
+	Para a narrativa do Livro Ilustrado eu busquei me inspirar nos grandes, como Saint-Exupéry ou Lewis Carroll, mesmo sabendo que não posso chegar a seus pés. Pra mim a leitura precisava funcionar com camadas suficientes para interessar a uma criança e também a um adulto. Também, funcionar tanto isolada como em conjunto do jogo, apesar de que apenas a última opção dá o panorama completo da história e personagens. Por isso não me prendi em descrever demais as criaturas, que estão detalhadas nas ilustrações, nem as cenas de ação, que são exatamente a experiência do jogo.
+
+	A ideia de leitura em camadas, utilizando as bruxas e todo o universo da história como metáforas, também visa honrar a obra de Franklin Cascaes, principal inspiração artística para a realização do jogo. Sua obra não só retrata costumes e lendas, mas cria e utiliza destas como metáforas para expressar sua visão de mundo. Sem pretender fazer aqui uma biografia, mesmo que breve, é preciso sintetizar quem foi e a importância de seu legado.
+
+	Franklin Joaquim Cascaes (1908-1983) dedicou a vida a uma obra que não só registrou uma cultura local, de origem em certa medida Açoriana, como criou todo um imaginário e uma arte própria. Ele ia com sua Kombi até as comunidades antigas da Ilha e lá fazia um estudo de campo dos costumes e lendas entre as pessoas. Depois, produzia esculturas, desenhos, e contos, que retratavam essa cultura. Por fim, retornava a comunidade e lá fazia mostras e exposições, dando um retorno para o povo e mostrando que seus costumes e lendas eram dignos de registro e memória, de tornarem-se arte.
+
+	Na sua última década em vida Cascaes, já como diretor do museu de antropologia da UFSC, teve a ajuda de Gelci José Coelho, o Peninha, artista e estudante de história naquela na universidade. Peninha não só trabalhou incessantemente, mesmo após a morte e Cascaes, em divulgar e preservar toda a sua obra, mas também colaborou com a criação de toda uma série de lendas e causos, mantendo toda uma produção rica de desenhos e textos em paralelo.
+
+	Muitas dessas lendas e costumes vieram, a princípio, com os colonos imigrantes do Arquipélago dos Açores, em Portugal. Mas aqui ganharam características próprias e se mesclaram com muitas outras tradições. Tem uma anedota antiga, que dizem ser verídica, de que quando Cascaes primeiro visitou os Açores lá ficou surpreso por não existir o folguedo do Boi-de-Mamão. Apesar de certa herança prévia a cultura “desterrada” sempre se desenvolve de forma única. O Culto ao Boi, como figura de fertilidade na narrativa de morte e renascimento, está presente em muitas culturas antigas. As danças e o auto do Boi-de-Mamão tem também muita influência da cultura trazida pelos negros escravizados, assim como os índios que aqui foram subjugados. Lendas e criaturas míticas como o Boitatá, corruptela do M’boitata, a “Cobra de Fogo” Tupi, são o fruto desse desenvolvimento único e de mistura de tradições a “fórceps”.
+
+	Apesar dos contos e ilustrações de bruxas serem apenas uma parte, e nem é a maior no trabalho de Cascaes, foi ela que ganhou maior projeção pelo seu caráter fantástico. Penso que Peninha, sabendo do apelo dessas histórias, foi um dos grandes responsáveis por esse fato.
+
+	Eu não encaro as criaturas místicas dos desenhos e contos legados por Cascaes como um fim em si, mas também como um meio dele falar de outros temas do real: metáforas para além. Acredito que ele percebia as bruxas como materializações de incompreensões, medos, recalques, entre outros conflitos que as pessoas vivenciavam. 
+Para quem se dispor a olhar na internet imagens das obras de Cascaes, vai logo reconhecer várias criaturas que também estão presentes no jogo, como as vassouras embruxadas, o Balanço Bruxólico, entre outras, além das demais que criei partindo deste rico e fantástico universo.
+
+	As criaturas fadóricas em Bruxólico são essa homenagem a Cascaes, mas também um motivo pra falar e mostrar o meu olhar sobre nossa cultura e o lugar onde vivo, minha visão deste mundo e de seus problemas. Por isso retrato lugares como algumas das trilhas antigas da cidade, como do Gravata ou do Sertão do Assopro, que eu já percorri acompanhando minha esposa, que adora o contato com a natureza e apreciação das belezas naturais das paisagens. Nos últimos três anos ela pacientemente me ouviu contar sobre todas as minhas ideias para o jogo, enquanto era inspirado pela mata nativa e informações a respeito destes antigos caminhos. Acho que criei mais da metade das fases do jogo enquanto caminhávamos pelas trilhas.
+
+	Também foi através do TCC em história da Ju, a mais de 15 anos atrás, que aprendi muita coisa sobre a figura do Cascaes e as discussões a respeito do sentido político de sua vida e obra. Esse debate inclusive me impulsionou a compor uma música, com o título “Mané”, e fazer um clipe totalmente em pixel art para ela, em 2008. Uma crítica à exploração imobiliária da Ilha e a forma como a cultura é aqui tratada, com referências de fatos políticos daquele momento.
+
+	Outra contribuição importante para o amadurecimento do jogo e sua narrativa veio da iniciativa e convite do meu amigo Luiz Souza para colaborar com a Revista Anacronia. As entrevistas que fizemos com Peninha alimentaram em muito minha imaginação. Mas também o diálogo com a produção de meu amigo é parte disso tudo. Ele quem percebeu de forma muito original uma relação entre o “Bode de Mendes” da literatura hermética e a figura do Boitatá, e reinventou o conceito de Matárius, a “praia do esquecimento”.
+
+	Uma história interessante tem a ver com tudo isso. Em 2014 eu fiz um desenho de uma criatura que chamei de Boi-Fantasma, para um projeto que nunca realizei chamado “Bestiário da Ilha”. Fiz também uma pequena narrativa, criando a lenda de um avistamento da criatura por guarnições portuguesas aqui na ilha, antes até da chegada dos Açorianos. Em 2019 meus pais fizeram um estandarte dessa ilustração, e desfilaram ela lado a lado com outro reproduzindo um dos Boitatás de Cascaes.
+
+	Pois bem, conversando a respeito com o Luiz ele me perguntou qual seria a razão, a intenção da criatura em ser avistada. Eu disse que não sabia ao certo, mas que ela provavelmente só queria ser vista. A partir das suas leituras em magia hermética, em especial o conceito de “ideia forma”, o Luiz criou um conto, que chamou de “Boi Fantasma”, descrevendo como estas criaturas fantásticas só existem enquanto são lembradas e cultuadas, pois se não elas vão parar num lugar chamado Matárius, a praia do esquecimento. Se você achou a ideia familiar é por que ela está em muitos lugares, como na oba de Neil Gaiman, que certamente a pegou da mesma fonte que o Luiz, a literatura hermética.
+
+	Quanto às escolhas estéticas do jogo eu preciso pontuar algumas coisas. Lá se vão quase 10 anos criando vídeo game autoral. E ultimamente tenho trabalhado muito dentro as limitações destes computadores de 8-Bits dos anos 80. Eu ainda me espanto com o quanto as limitações de memória nos obrigam a vir com soluções criativas, e o quanto isso também me dá novas ideias para a criação estética geral do jogo.
+
+	Em outros momentos já falei bastante sobre as limitações técnicas e limites de memória desses computadores, mais ainda da “Engine” que utilizo, o MPAGD. O principal é que sigo utilizando estes grandes blocos de 8x8 pixels para desenhar os cenários e as ilustrações que estão no jogo e no livro ilustrado. Eu me esforço para fazer a pixel arte com cabeça de esteta, sempre considerando a imagem como um todo e não só seus elementos individuais.
+
+	Na busca de tornar os cenários “vivos” e detalhados escolhi um visual de "falso 3D". Assim criei um efeito que impressiona visualmente e também contribui para o “level design”: deixo claro para o jogador o que é cenário de fundo e o que são elementos com os quais ele colide e interage, como chão, plataformas e paredes e inimigos.
+
+	Na tentativa de superar os limites técnicos da máquina, da Engine, e meus, eu que sou um artista me metendo a programar e não um programador, criei formas de simular a rolagem de tela (o famoso scroll, ou movimento do ecrã), me utilizando de sprites que estão programados e condicionados a uma variável que liga ou desliga seu movimento. Apesar da limitação máxima de 12 sprites na tela foi possível manejar os recursos e ter o jogador, seus ataques, e os inimigos junto com tais efeitos em movimento em simultãneo.
+
+	Uma coisa especial e digna de nota aqui é sobre a ideia de utilizar dos áudios gravados na fita. Como o espaço de memória é muito limitado eu não podia me dar ao luxo de colocar uma grande quantidade de narrativa em texto no programa do jogo. Mas isso era um impasse, pois a história é grande para os padrões de um jogo deste tipo. Eu, que não cresci jogando jogos em fita k7, me peguei a pensar se era possível ter áudios gravados nela depois do programa do jogo e reproduzidos pelo micro computador. Assim eu teria um resultado legal: narrações das histórias em qualidade de áudio analógico e economia de memória para incluir mais telas e chefes de fase.
+
+	Falei desta ideia para o Filipe Veiga, perguntei se era possível e se algum desenvolvedor do passado ou de agora tinha utilizado este recurso. Ele me apresentou então os jogos da Automata, e em especial sua obra prima, o jogo “Deus EX Machina”, que eu achei fantástico. Eu só consigo fazer um paralelo de um jogo tão inovador e espantoso com algo no estilo do filme “Another Brick on the Wall”, da banda Pink Floyd. Tive a certeza de que eu queria e precisava utilizar este recurso no Bruxólico, não de forma experimental ou tão bem executada como o pessoal da Automata, até por que não tenho ainda os meios de programar sincronia entre ação do meu jogo com os áudios de forma complexa, mas fazendo um uso criativo que agregasse à experiência do jogador.
+
+	Essas foram algumas das principais inspirações e reflexões desses 8 meses de produção do Bruxólico, um jogo que na verdade vem sendo gestado a bem mais tempo. Como em trabalhos anteriores ele é a síntese de muitas ideias e objetivos que eu tenho me imposto ao criar meus jogos. Desde a ideia de não encerrar a criação apenas no jogo, mas expandir para outras linguagens estéticas, até a de estar sempre em diálogo com a cultura, com as produções artísticas que tenho acesso em variadas linguagens, sejam os quadrinhos, cinema, literatura, artes plásticas, etc, de diferentes épocas.
+
+Bruxólico é muito especial pra mim por conta de todo o seu valor afetivo, da obra de Cascaes, e da geração de artistas que lhe deu continuidade, como o Peninha e meus pais. Espero que você também encontre o seu próprio sentido ao jogar, ler, escutar, e ver as imagens de todo esse longo trabalho. Obrigado por voar comigo até aqui.
+
+
+Amaweks, 09 de março de 2023, Ilha de Santa Catarina.
