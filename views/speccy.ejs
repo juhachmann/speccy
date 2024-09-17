@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Amaweks Demo ZX Games</title>
+        <style>
+            body {
+                text-align: center;
+                background-color: darkslategray;
+                color: antiquewhite;
+                padding: 2rem;
+            }
+            footer {
+                font-size: small;
+                margin-top: 3rem;
+            }
+            footer a {
+                color: white;
+            }
+            #jsspeccy {
+                margin-top: 3rem;
+                background-image: url('<%= img %>');
+                background-size: 100% auto;
+                margin: auto;
+                width: min-content;
+            }
+        </style>
+    </head>
+    <body>
+        <h1> <%= title %> </h1>
+        <div id="jsspeccy"></div>
+        <footer>ZX Spectrum emulator by <a href="https://twitter.com/gasmanic/">Matt Westcott</a>. For source code, downloads, embedding on your own site: <a href="https://github.com/gasman/jsspeccy3">JSSpeccy 3 on GitHub</a>.</footer>
+        <script src="/jsspeccy/jsspeccy.js"></script>
+        <script>
+            let emu = JSSpeccy(document.getElementById('jsspeccy'), 
+                {
+                    sandbox: true,
+                    zoom: 2,
+                    autoLoadTapes: true,
+                    tapeAutoLoadMode: 'default',
+                    machine: 128,
+                    openUrl: window.location.origin + '<%= tape %>'                    
+                });
+        </script>
+    </body>
+</html>
