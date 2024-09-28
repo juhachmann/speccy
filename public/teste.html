@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Amaweks Demo ZX Games</title>
+        <style>
+            body {
+                text-align: center;
+                background-color: rgb(245, 245, 245);
+            }
+            footer {
+                font-size: small;
+                margin-top: 3rem;
+                color: grey;
+            }
+            footer a {
+                color: grey;
+            }
+            #jsspeccy {
+                margin-top: 10px;
+                margin-bottom: 2rem;
+                background-image: url('https://juhachmann.github.io/speccy/public/marlow.jpeg');
+                background-size: 100% auto;
+                margin: auto;
+                width: min-content;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="jsspeccy"></div>
+        <footer>ZX Spectrum emulator by <a href="https://twitter.com/gasmanic/">Matt Westcott</a>. For source code, downloads, embedding on your own site: <a href="https://github.com/gasman/jsspeccy3">JSSpeccy 3 on GitHub</a>.</footer>
+        <script src="https://jsspeccy.zxdemo.org/jsspeccy/jsspeccy.js"></script>
+        <script>
+            let emu = JSSpeccy(document.getElementById('jsspeccy'), 
+                {
+                    sandbox: true,
+                    zoom: 3,
+                    autoLoadTapes: true,
+                    tapeAutoLoadMode: 'default',
+                    machine: 128,
+                    openUrl: 'https://juhachmann.github.io/speccy/public/roms/marlow128_demo.tap'                    
+                });
+        </script>
+    </body>
+</html>
